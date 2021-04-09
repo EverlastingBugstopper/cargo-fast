@@ -1,6 +1,6 @@
 [package]
 name = "cargo-fast"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Avery Harnish <averyharnish@gmail.com>"]
 categories = ["command-line-utilities", "development-tools::cargo-plugins"]
 edition = "2018"
